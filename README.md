@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on cyber security 🤣💕
-- 📫 How to reach me 
+-
 
 <!---
 glitch0010/glitch0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
